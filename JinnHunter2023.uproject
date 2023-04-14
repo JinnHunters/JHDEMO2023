@@ -19,6 +19,11 @@
 		{
 			"Name": "MotionWarping",
 			"Enabled": true
+		},
+		{
+			"Name": "DismembermentSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/edf7df173002459caf956adabd3c694f"
 		}
 	]
 }
