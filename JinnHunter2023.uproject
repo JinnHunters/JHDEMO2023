@@ -24,6 +24,11 @@
 			"Name": "DismembermentSystem",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/edf7df173002459caf956adabd3c694f"
+		},
+		{
+			"Name": "MirrorAnimation",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/9ac1789df8584b368a9df211a3c61429"
 		}
 	]
 }
